@@ -1,10 +1,10 @@
 <h1 align="center">
   ⚡ Raiden Shogun Worshipper ⚡<br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=BB6BD9&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Hi+I'm+Manish!;Raiden+Main+Since+Inazuma~" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=BB6BD9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+I'm+Manish!;Raiden+Main+Since+Inazuma~" />
 </h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/8a0zL4EfC7MAAAAd/raiden-shogun-genshin.gif" width="300" />
+  <img src="https://media.tenor.com/8a0zL4EfC7MAAAAd/raiden-shogun-genshin.gif" width="250" />
 </p>
 
 ---
@@ -13,14 +13,15 @@
 - ⚡ **Electro-coder** building Discord bots & websites
 - 🧠 Currently learning: **Next.js + TypeScript**
 - 💬 Anime enjoyer | Debugger at midnight 🌙
-- 👑 Raiden Simp since birth (jk… not really)
+- 👑 Raiden Simp since birth (jk… not really)  
+  🎸 *Electro ka jaadu, code ka raag!*
 
 ---
 
 ### 🛠️ Tech Stack:
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&style=for-the-badge) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=for-the-badge) 
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&style=for-the-badge) 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=for-the-badge)
 
 ---
@@ -35,4 +36,3 @@
 
 ### 🌀 Random Quote
 > "In the pursuit of eternity, one must code endlessly." – *Electro Dev*
-
