@@ -1,5 +1,5 @@
 <h1 align="center">
-  ⚡ Raiden Shogun Worshipper ⚡<br>
+    !~  it's manish 🪄 <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=BB6BD9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+I'm+Manish!;Raiden+Main+Since+Inazuma~" />
 </h1>
 
@@ -10,11 +10,32 @@
 ---
 
 ### 👑 About Me:
-- ⚡ **Electro-coder** building Discord bots & websites
+- ⚡ building Discord bots & websites
 - 🧠 Currently learning: **Next.js + TypeScript**
 - 💬 Anime enjoyer | Debugger at midnight 🌙
-- 👑 Raiden Simp since birth (jk… not really)  
-  🎸 *Electro ka jaadu, code ka raag!*
+ <details><summary>Devices</summary>
+
+- [poco x6](https://www.po.co/global/product/poco-x6/)
+
+- [INBOOK Y1 Plus Neo](https://www.infinixmobiles.in/INBOOK-Y1-Plus-Neo)
+
+- [OnePlus Bullets Wireless Z2](https://www.oneplus.in/product/oneplus-bullets-wireless-z2-anc)
+
+</details>
+
+<details><summary>Socials</summary>
+
+- [YouTube](https://www.youtube.com/@manish_boyy)
+
+- [Website](https://its-manish.vercel.app)
+
+- [GitHub](https://github.com/manishbhaiii) (Your already here)
+
+- [Discord Server](https://discord.gg/hZf4j8GzzK)
+
+- [Instagram](https://www.instagram.com/its_manish_boyy/)
+
+</details>
 
 ---
 
@@ -33,6 +54,3 @@
 </p>
 
 ---
-
-### 🌀 Random Quote
-> "In the pursuit of eternity, one must code endlessly." – *Electro Dev*
