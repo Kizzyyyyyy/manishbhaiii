@@ -1,13 +1,13 @@
 <h1 align="center">
     !~  it's manish 🪄 <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=BB6BD9&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+I'm+Manish!;Raiden+Main+Since+Inazuma~" />
-</h1>
+
 
 <p align="center">
-  <img src="https://media.tenor.com/8a0zL4EfC7MAAAAd/raiden-shogun-genshin.gif" width="250" />
+  <img src="assets/raiden.gif" width="250" />
 </p>
+</h1>
 
----
 
 ### 👑 About Me:
 - ⚡ building Discord bots & websites
