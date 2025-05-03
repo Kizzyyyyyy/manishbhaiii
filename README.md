@@ -32,7 +32,7 @@
 <!-- Discord Presence Embed -->
 <p align="center">
   <a href="https://discord.com/users/1085632219906842644" target="_blank">
-    <img src="https://lanyard.dev/api/1085632219906842644?theme=dark&borderRadius=30px&idleMessage=Sleeping...&showDisplayName=true" />
+    <img src="https://api.lanyard.rest/1085632219906842644.svg" />
   </a>
 </p>
 
