@@ -23,7 +23,7 @@
 <details><summary>Socials</summary>
 
 - [YouTube](https://www.youtube.com/@manish_boyy)
-- [Website](https://its-manish.vercel.app)
+- [Website](https://roxy-selfbot.vercel.app/)
 - [GitHub](https://github.com/manishbhaiii) (You're already here)
 - [Discord Server](https://discord.gg/hZf4j8GzzK)
 - [Instagram](https://www.instagram.com/its_manish_boyy/)
