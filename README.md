@@ -10,7 +10,7 @@
 ### 👑 About Me:
 - ⚡ building Discord bots & websites  
 - 🧠 Currently learning: **Next.js + TypeScript**  
-- 💬 Anime enjoyer | Debugger at midnight 🌙  
+- 💬 Hentai enjoyer | Debugger at midnight 🌙  
 
 <details><summary>Devices</summary>
 
