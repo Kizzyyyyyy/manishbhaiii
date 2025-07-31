@@ -9,7 +9,7 @@
 
 ### 👑 About Me:
 - ⚡ building Discord bots & websites  
-- 🧠 Currently learning: **Next.js + TypeScript**  
+- 🧠 Currently learning: **MERN Stack + Tailwind**  
 - 💬 Hentai enjoyer | Debugger at midnight 🌙  
 
 <details><summary>Devices</summary>
@@ -34,18 +34,18 @@
 <p align="center">
   <a href="https://discord.com/users/1085632219906842644" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/1085632219906842644?bg=000000&borderRadius=20px&idleMessage=Sleeping...&theme=dark&showDisplayName=true"/>
-
-<img src="https://lanyard.cnrad.dev/api/1123856956780728411?bg=000000&borderRadius=20px&idleMessage=Sleeping...&theme=dark&showDisplayName=true"/>
+    <img src="https://lanyard.cnrad.dev/api/1123856956780728411?bg=000000&borderRadius=20px&idleMessage=Sleeping...&theme=dark&showDisplayName=true"/>
   </a>
 </p>
 
 ---
 
 ### 🛠️ Tech Stack:
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&style=for-the-badge) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=for-the-badge) 
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&style=for-the-badge) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=for-the-badge) 
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&style=for-the-badge) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&style=for-the-badge) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visual-studio-code&style=for-the-badge) 
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&style=for-the-badge) 
 
 ---
 
