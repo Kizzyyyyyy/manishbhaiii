@@ -10,7 +10,7 @@
 ### 👑 About Me:
 - ⚡ building Discord bots & websites  
 - 🧠 Currently learning: **MERN Stack + Tailwind**  
-- 💬 Hentai enjoyer | Debugger at midnight 🌙  
+- 💬 Hentai, anime, music | Debugger at midnight 🌙  
 
 <details><summary>Devices</summary>
 
